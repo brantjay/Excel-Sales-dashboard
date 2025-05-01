@@ -1,7 +1,9 @@
-# Excel-Sales-dashboard
+## Excel-Sales-dashboard
+An interactive Excel dashboard analyzing sales data from 2015–2017, built to showcase data visualization, analysis, and storytelling skills.
+
 This interactive Excel dashboard provides a comprehensive analysis of sales performance across the years 2015-2017. It provides a comprehensive analysis of sales based on the region, product and Sales rep. It was built to practice data visualization and storytelling using Excel features like PivotTables, slicers, and charts.
 
-Project Features:
+## Project Features:
 
 PivotTables to summarize sales by region and product category.
 
@@ -9,13 +11,13 @@ PivotCharts to visualize trends and comparisons.
 
 Slicers for dynamic filtering by region and year.
 
-Data Source:
+## Data Source:
 
 Dummy sales dataset (simulated for educational purposes).
 
 Includes fields such as: Years, Region, Product, Revenue, Units Sold, Sales Rep.
 
-Key Insights:
+## Key Insights:
 
 Sales from the West region are consistently higher than the East and South region.
 
@@ -25,11 +27,11 @@ Sales seem to peak in the fourth quarter every year indicating a possible trend.
 
 Mike is the Sales rep that generated the most revenue in 2015-2017.
 
-Tools Used:
+## Tools Used:
 
 Microsoft Excel (PivotTables, PivotCharts, Slicers ).
 
-Learnings:
+## Learnings:
 
 Improved proficiency with Excel data visualization tools.
 
@@ -37,10 +39,16 @@ Gained experience in structuring a self-guided analytics project.
 
 Practiced transforming raw data into actionable insights.
 
-Screenshots:
+## Screenshots:
 
 https://github.com/brantjay/Excel-Sales-dashboard/blob/main/Dashboard.png?raw=true
 
 https://github.com/brantjay/Excel-Sales-dashboard/blob/main/Dashboard%202.png?raw=true
 
 https://github.com/brantjay/Excel-Sales-dashboard/blob/main/Dashboard%203.png?raw=true
+
+## How to View:
+
+1. Download the Excel file from this repository.
+2. Open in Microsoft Excel (recommended version 2016 or later).
+3. Use the slicers to filter by region and year, and interact with the charts.
