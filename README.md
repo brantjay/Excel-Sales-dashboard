@@ -39,7 +39,7 @@ Practiced transforming raw data into actionable insights.
 
 Screenshots:
 
-https://github.com/brantjay/Excel-Sales-dashboard/blob/main/Dashboard.png
+https://github.com/brantjay/Excel-Sales-dashboard/blob/main/Dashboard.png?raw=true
 
 https://github.com/brantjay/Excel-Sales-dashboard/blob/main/Dashboard%202.png?raw=true
 
